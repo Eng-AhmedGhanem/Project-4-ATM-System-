@@ -10,7 +10,7 @@ The project simulates real-world ATM operations with a focus on **functionality*
 | Version | Description | Key Features |
 |---------|-------------|--------------|
 | **Project 4 – ATM System** | Initial release with core ATM operations. | Secure login, withdrawals, deposits, balance checking, and file-based data storage. |
-| **Project 4.1 – ATM System (1st Extension)** | Enhanced version adding account management features. | Update PIN, edit client info, and view client details. |
+| **Project 4.1 – ATM System (1st Extension)** | Enhanced version adding account management features. | Update PIN , and view client details. |
 
 ---
 
