@@ -36,7 +36,6 @@ This console-based ATM simulation helps strengthen core C++ skills through:
 
 ### 🔐 Project 4.1 – ATM System (1st Extension)
 - **Change PIN Code** – Securely update user PINs  
-- **Edit Client Info** – Modify stored client data dynamically  
 - **View Client Info** – Display formatted account details  
 - **Improved UX Flow** – Smoother navigation and input validation  
 - **Refactored Code** – Modular structure for scalability and clarity  
