@@ -247,42 +247,34 @@ void PerformQuickWithdrawScreen(short Number)
 	{
 	case 1:
 		QucikWithdrawAction(20);
-		ShowMainMenueScreen();
 		break;
 
 	case 2:
 		QucikWithdrawAction(50);
-		ShowMainMenueScreen();
 		break;
 
 	case 3:
 		QucikWithdrawAction(100);
-		ShowMainMenueScreen();
 		break;
 
 	case 4:
 		QucikWithdrawAction(200);
-		ShowMainMenueScreen();
 		break;
 
 	case 5:
 		QucikWithdrawAction(400);
-		ShowMainMenueScreen();
 		break;
 
 	case 6:
 		QucikWithdrawAction(600);
-		ShowMainMenueScreen();
 		break;
 
 	case 7:
 		QucikWithdrawAction(800);
-		ShowMainMenueScreen();
 		break;
 
 	case 8:
 		QucikWithdrawAction(1000);
-		ShowMainMenueScreen();
 		break;
 
 	case 9:
@@ -396,6 +388,7 @@ void  PerformMainMenueScreen(enMainMenueOption Option)
 
 	case enMainMenueOption::eQuickWithdraw:
 		ShowQucikWithdrawScreen();
+		ShowMainMenueScreen();
 		break;
 
 	case enMainMenueOption::eNormalWithdraw:
@@ -474,4 +467,5 @@ int main()
 	Login();
 
 }
+
 
